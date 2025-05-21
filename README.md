@@ -11,6 +11,6 @@ Seeking to contribute as a Technical Artist or Manager in a dynamic tech-driven 
 ![html](https://github.com/sohadutt/sohadutt/blob/0749f5d3c07cdb2f531e2e510bf4491e5ee28c16/html.svg)
 ![javascript](https://github.com/sohadutt/sohadutt/blob/0749f5d3c07cdb2f531e2e510bf4491e5ee28c16/JS.svg)
 ![react](https://raw.githubusercontent.com/sohadutt/sohadutt/0749f5d3c07cdb2f531e2e510bf4491e5ee28c16/react.svg)
-![react](https://github.com/sohadutt/sohadutt/blob/0749f5d3c07cdb2f531e2e510bf4491e5ee28c16/github.svg)
-
+![git](https://github.com/sohadutt/sohadutt/blob/0749f5d3c07cdb2f531e2e510bf4491e5ee28c16/github.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&style=plastic&logo=python&logoColor=ffdd54)
 #
