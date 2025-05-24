@@ -16,5 +16,14 @@ cross-functional processes, ensuring product quality, and streamlining creative 
 ![git](https://shields.io/badge/GIT-181717?logo=github&logoColor=white&labelColor=f14e32)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&style=plastic&logo=python&logoColor=ffdd54)
 ![was](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+</br>
 
 #
+</br>
+
+# 📈 Stats 
+
+
+![sohadutt's Stats](https://github-readme-stats.vercel.app/api?username=sohadutt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sohadutt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohadutt&theme=vue-dark&hide_border=true)
+![sohadutt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohadutt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
