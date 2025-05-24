@@ -1,5 +1,5 @@
 #  🗿About:
-Multidisciplinary IT professional with proven experience in 3D art, visual effects,Web developement, product 
+Multidisciplinary IT professional with proven experience in 3D art, visual effects, Web development, product 
 configuration, and team coordination. I specialise in developing product configurators and
 collaborating with developers to create optimised, scalable solutions. Adept at managing 
 cross-functional processes, ensuring product quality, and streamlining creative workflows. 
