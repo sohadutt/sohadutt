@@ -1,7 +1,5 @@
 #  🗿About:
-Just the best guy to be around. 
-<br /><br />
-### Now, I am pursuing Computer Engineering to level up my skills.
+### Just the best guy to be around.
 
 # 💻 Current Stack:
 ![html](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)
