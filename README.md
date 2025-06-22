@@ -19,5 +19,5 @@
 # 📈 Stats 
 
 
-![sohadutt's Stats](https://github-readme-stats.vercel.app/api?username=sohadutt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![sohadutt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohadutt&theme=vue-dark&hide_border=true)
+![sohadutt's Stats](https://github-readme-stats.vercel.app/api?username=sohadutt&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![sohadutt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohadutt&theme=dracula&hide_border=true)
