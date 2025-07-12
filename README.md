@@ -4,6 +4,7 @@
 # 💻 Current Stack:
 ![html](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)
 ![javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=plastic)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=plastic)
 ![react](https://img.shields.io/badge/-ReactJs-grey?logo=react&logoColor=sky&style=plastic)
 ![nongodb](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
