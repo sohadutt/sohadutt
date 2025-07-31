@@ -3,20 +3,20 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" 
-  workflow_dispatch:
+  workflow_dispatch:     
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Game
+      - name: Generate Snake Animation SVG
         uses: Platane/snk@v3
         with:
           github_user_name: sohadutt
           outputs: |
             ./dist/github-contribution-grid-snake.svg
 
-      - name: Push snake animation to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
