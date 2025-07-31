@@ -37,7 +37,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
 ![snake gif](https://github.com/sohadutt/sohadutt/blob/output/github-contribution-grid-snake.svg)
 
