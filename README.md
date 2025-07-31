@@ -1,24 +1,46 @@
-#  🗿About:
-### Just the best guy to be around.
+# 🗿 About Me
+> Just the best guy to be around.  
 
-# 💻 Current Stack:
-![html](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)
-![javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=plastic)
-![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=plastic)
-![react](https://img.shields.io/badge/-ReactJs-grey?logo=react&logoColor=sky&style=plastic)
-![nongodb](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
-![express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
-![node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![git](https://shields.io/badge/GIT-181717?logo=github&logoColor=white&labelColor=f14e32)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&style=plastic&logo=python&logoColor=ffdd54)
-![was](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-</br>
+---
 
-#
-</br>
+## 💻 Tech Stack
 
-# 📈 Stats 
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
 
+---
 
-![sohadutt's Stats](https://github-readme-stats.vercel.app/api?username=sohadutt&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![sohadutt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohadutt&theme=dracula&hide_border=true)
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohadutt&theme=radical&show_icons=true&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohadutt&theme=radical&layout=compact&hide_border=false" height="180"/>
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohadutt)  
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sohadutt)  
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/sohadutt/sohadutt/blob/output/github-contribution-grid-snake.svg)
+
+---
+
