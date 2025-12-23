@@ -38,20 +38,6 @@ I am a backend-focused developer with hands-on experience in Django, Python auto
 
 ---
 
-### 🚀 Key Projects
-
-#### Internal Config Management Tool
-*Developed Django management commands and Python API scripts for secure configuration management.*
-- Abstracted direct database access to improve security and operational safety.
-- Reduced dependency on backend engineers for routine configuration updates by 70%.
-
-#### Custom Product Configurator Platform
-*Built scalable configuration logic using structured JSON schemas for multi-client deployments.*
-- Designed schemas to handle complex product variants.
-- Coordinated QA and deployment processes ensuring zero-downtime releases.
-
----
-
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohadutt)
