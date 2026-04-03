@@ -3,8 +3,8 @@
 
 I am a backend-focused developer with hands-on experience in Django, Python automation, PostgreSQL, and REST APIs. I specialize in automating workflows to reduce manual errors and building internal tooling for safe database operations.
 
-- 🔭 **Current Role:** Associate (Backend & Config Automation) at Imagine.io
-- 💼 **Focus:** Backend Development, Configuration Automation, and Tooling
+- 🔭 **Current Role:** Associate at Imagine.io
+- 💼 **Focus:** Full-stack Developement and automation
 - 📫 **Contact:** [sohadutt@outlook.com](mailto:sohadutt@outlook.com)
 
 ---
