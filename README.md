@@ -1,7 +1,7 @@
 # Hi👋
 ### Fullstack Developer (JavaScript, Django / Python)
 
-I am a backend-focused developer with hands-on experience in Django, Python automation, PostgreSQL, and REST APIs. I specialize in automating workflows to reduce manual errors and building internal tooling for safe database operations.
+I am a python-focused developer with hands-on experience in Django, React, Python automation, PostgreSQL, and REST APIs. I specialize in automating workflows to reduce manual errors and building internal tooling for safe database operations.
 
 - 🔭 **Current Role:** Associate at Imagine.io
 - 💼 **Focus:** Full-stack Developement and automation
