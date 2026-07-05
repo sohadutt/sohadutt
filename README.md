@@ -1,4 +1,5 @@
-# Hi👋
+# Hello👋, I am Soham
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA29F7&width=435&lines=Welcome+to+my+GitHub+%5E_%5E)](https://git.io/typing-svg)
 ### Fullstack Developer (JavaScript, Django / Python)
 
 I am a python-focused developer with hands-on experience in Django, React, Python automation, PostgreSQL, and REST APIs. I specialize in automating workflows to reduce manual errors and building internal tooling for safe database operations.
